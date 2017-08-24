@@ -1,2 +1,5 @@
-echo "g++ -std=c++11 your_file.cpp -o your_program"
-echo "to make your code executable on rabbit, use -mtune=1386
+ECE318 Algorithms & Data Structures
+
+	This project is designed to act as a review of more basic coding concepts. At some point
+	we will begin to broach much more advanced topics, and when that happens, it would behoove
+	me to know the basics of c++.
