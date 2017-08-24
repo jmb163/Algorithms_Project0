@@ -1,0 +1,2 @@
+echo "g++ -std=c++11 your_file.cpp -o your_program"
+echo "to make your code executable on rabbit, use -mtune=1386
